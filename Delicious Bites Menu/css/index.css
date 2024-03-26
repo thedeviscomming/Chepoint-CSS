@@ -1,0 +1,45 @@
+@font-face {
+    font-family: roboto;
+    src: url(./Roboto-Regular.ttf);
+}
+
+nav{
+    padding: 40px;
+    border: medium;
+    display: flex;
+    background-color: bisque;
+    font-size: medium;
+    justify-content: space-around;
+    position: relative;
+}
+ 
+.Ap{
+    justify-content: center;
+    text-align: center;
+}
+
+.pl{
+    justify-content: center;
+    text-align: center;
+}
+
+.de{
+    justify-content: center;
+    text-align: center;
+}
+
+.S1{
+    display: flex;
+}
+.S2{
+    display: flex;
+}
+
+.S3{
+    display: flex;
+}
+
+body{
+    background-image: url(https://www.shutterstock.com/image-illustration/best-background-images-website-simple-260nw-1133577506.jpg;)
+}
+
